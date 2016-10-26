@@ -27,6 +27,7 @@
             Navigation: 'app/components/Navigation.jsx',
             Countdown: 'app/components/Countdown.jsx',
             Timer: 'app/components/Timer.jsx',
+            Clock: 'app/components/Clock.jsx'
         },
         extensions: ['', '.js', '.jsx']
     },
