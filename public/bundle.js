@@ -27172,12 +27172,7 @@
 	      React.createElement(Navigation, null),
 	      React.createElement(
 	        'div',
-	        null,
-	        React.createElement(
-	          'p',
-	          null,
-	          'Main.jsx rendered'
-	        ),
+	        { className: 'column small-centered medium-6 large-4' },
 	        props.children
 	      )
 	    )
